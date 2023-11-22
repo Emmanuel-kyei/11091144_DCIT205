@@ -1,0 +1,53 @@
+na{
+    background-color: black;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 1rem;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+  }
+  
+  nav a:hover {
+    background-color: #333;
+  }
+  
+  /* Customizing the navigation bar for your specific needs */
+  .firstUL {
+    float: right; /* Align the navigation bar to the right */
+  }
+  
+  h1 {
+    text-align: center; /* Center the heading */
+  }
+  
+  .profile {
+    margin-top: 5;
+    background-color: #222;}
+
+.name {
+    height: 50px;
+}
+footer{ background-color: black;
+    height:150px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    }v 
